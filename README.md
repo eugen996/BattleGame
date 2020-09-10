@@ -15,7 +15,7 @@ php index.php
 ## Output
 ![Screenshot](https://raw.githubusercontent.com/eugen996/BattleGame/master/images/Screenshot_1.png)
 
-## Uit tests (PHPUnit)
+## Unit tests (PHPUnit)
 
 - tests/TestApplySkill.php
 - tests/TestCharacterHealth.php
