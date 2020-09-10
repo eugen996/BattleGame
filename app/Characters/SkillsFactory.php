@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Created by PhpStorm.
+ * User: Eugen Popa
+ */
+
 namespace App\Characters;
 
 class SkillsFactory

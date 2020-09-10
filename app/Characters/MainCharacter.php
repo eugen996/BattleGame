@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Created by PhpStorm.
+ * User: Eugen Popa
+ */
+
 namespace App\Characters;
 
 class MainCharacter extends CharacterTemplate implements CharacterInterface
@@ -35,14 +40,14 @@ class MainCharacter extends CharacterTemplate implements CharacterInterface
         {
             $damage = $this->GetStats("Strength") - $defender->GetStats("Defence");
 
-            echo $this->GetName() . "'s attacks with damage " . $damage . PHP_EOL;
+            echo $this->GetName() . "'s attacks with damage " . $damage .PHP_EOL;
 
             /**
              * If the hero is lucky, uses a attack skill
              */
             if ($this->RapidStrike->TrySkill()) {
                 $damage = $this->RapidStrike->ApplySkill($damage);
-                echo "[Skill]" . $this->GetName() . " use Rapid Strike. Strike with damage: " . $damage . PHP_EOL;
+                echo "[Skill]" . $this->GetName() . " use Rapid Strike. Strike with damage: " . $damage .PHP_EOL;
             }
 
             $defender->DefendAction($damage);

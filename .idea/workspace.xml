@@ -22,6 +22,14 @@
     <list default="true" id="5577ee08-336f-445c-b332-044759a2a6e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterSkill.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterSkill.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterTemplate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterTemplate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/EnemyCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/EnemyCharacter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/MainCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/MainCharacter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Characters/SkillsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/SkillsFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Game/GameplayConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Game/GameplayConfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Game/TheHeroGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Game/TheHeroGame.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +93,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -159,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599567373376</updated>
       <workItem from="1599567378340" duration="43811000" />
-      <workItem from="1599723379861" duration="3538000" />
+      <workItem from="1599723379861" duration="6016000" />
     </task>
     <servers />
   </component>
@@ -191,22 +200,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599726461661" />
-    <state width="1323" height="317" key="GridCell.Tab.0.bottom" timestamp="1599726980559">
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom" timestamp="1599731777706">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="317" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
-    <state width="1323" height="317" key="GridCell.Tab.0.center" timestamp="1599726980559">
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599731777706" />
+    <state width="1323" height="317" key="GridCell.Tab.0.center" timestamp="1599731777706">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="317" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
-    <state width="1323" height="317" key="GridCell.Tab.0.left" timestamp="1599726980559">
+    <state width="1323" height="317" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599731777706" />
+    <state width="1323" height="317" key="GridCell.Tab.0.left" timestamp="1599731777706">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="317" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
-    <state width="1323" height="317" key="GridCell.Tab.0.right" timestamp="1599726980559">
+    <state width="1323" height="317" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599731777706" />
+    <state width="1323" height="317" key="GridCell.Tab.0.right" timestamp="1599731777706">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="317" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
+    <state width="1323" height="317" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599731777706" />
     <state x="556" y="174" key="NewPhpClassDialog" timestamp="1599724324164">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -218,6 +227,14 @@
     <state x="565" y="315" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1599724841176" />
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1599585872733" />
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599641920230" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1599728533385">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599728533385" />
+    <state x="0" y="0" width="587" height="738" key="find.popup" timestamp="1599731505430">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="587" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1599731505430" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1599587479134">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

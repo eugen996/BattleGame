@@ -7,3 +7,11 @@ The project consists of the fight between a hero and the wild beasts from Emagia
 - PHPUnit 9.3
 
 ## How to run the project
+For the command line use
+```bash
+php index.php
+```
+or simple opening in the browser.
+
+## Output
+![Screenshot](https://raw.githubusercontent.com/eugen996/BattleGame/master/images/Screenshot_1.png)

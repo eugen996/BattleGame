@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Created by PhpStorm.
+ * User: Eugen Popa
+ */
+
 namespace App\Game;
 
 use App\Characters\CharacterTemplate;
@@ -40,11 +45,11 @@ class TheHeroGame
 
         $turns = 1;
 
-        echo "The game has begun. ".$this->MainCharacter->GetName()."'s health is ".$this->MainCharacter->GetHealth()." and ".$this->EnemyCharacter->GetName()."'s health is ".$this->EnemyCharacter->GetHealth().PHP_EOL;
+        echo "-> The game has begun. ".$this->MainCharacter->GetName()."'s health is ".$this->MainCharacter->GetHealth()." and ".$this->EnemyCharacter->GetName()."'s health is ".$this->EnemyCharacter->GetHealth().PHP_EOL.PHP_EOL;
 
-        while($this->MainCharacter->GetHealth() > 0 && $this->EnemyCharacter->GetHealth() > 0 && $turns < self::MAX_TURNS)
+        while($this->MainCharacter->GetHealth() > 0 && $this->EnemyCharacter->GetHealth() > 0 && $turns <= self::MAX_TURNS)
         {
-            echo "Turn ".$turns.PHP_EOL;
+            echo "* Turn ".$turns." / ".self::MAX_TURNS." *".PHP_EOL;
 
             switch ($this->attacker) {
                 case "MainCharacter":
@@ -62,11 +67,11 @@ class TheHeroGame
 
         if($this->MainCharacter->GetHealth() > $this->EnemyCharacter->GetHealth())
         {
-            echo $this->MainCharacter->GetName()." win!";
+            echo $this->MainCharacter->GetName()." win!".PHP_EOL.PHP_EOL;
         }
         elseif($this->MainCharacter->GetHealth() < $this->EnemyCharacter->GetHealth())
         {
-            echo $this->EnemyCharacter->GetName()." win!";
+            echo $this->EnemyCharacter->GetName()." win!".PHP_EOL.PHP_EOL;
         }
     }
 

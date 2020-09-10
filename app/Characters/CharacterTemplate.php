@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Created by PhpStorm.
+ * User: Eugen Popa
+ */
+
 namespace App\Characters;
 
 use App\Game\GameplayConfig;
