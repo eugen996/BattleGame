@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":44:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:0:{}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":356:{a:2:{s:7:"defects";a:3:{s:28:"TestCharacter::testGetHealth";i:3;s:29:"TestApplySkill::testGetHealth";i:3;s:32:"TestCharacterName::testGetStatus";i:3;}s:5:"times";a:4:{s:28:"TestCharacter::testGetHealth";d:0.012;s:34:"TestCharacterHealth::testGetHealth";d:0.007;s:29:"TestApplySkill::testGetHealth";d:0.006;s:32:"TestCharacterName::testGetStatus";d:0.008;}}}

@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5577ee08-336f-445c-b332-044759a2a6e6" name="Default Changelist" comment="" />
+    <list default="true" id="5577ee08-336f-445c-b332-044759a2a6e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestMainCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCharacterHealth.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -64,10 +89,66 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BattleGame\tests" />
       <recent name="C:\xampp\htdocs\app\Characters\Skills" />
       <recent name="C:\xampp\htdocs\app\Game" />
       <recent name="C:\xampp\htdocs\app" />
     </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.index.php">
+    <configuration name="TestApplySkill" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="TestApplySkill" coverage_engine="PHPDBG" file="$PROJECT_DIR$/tests/TestApplySkill.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCharacter" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="TestCharacter" coverage_engine="PHPDBG" file="$PROJECT_DIR$/tests/TestCharacterHealth.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCharacterHealth" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="TestCharacterHealth" coverage_engine="PHPDBG" file="$PROJECT_DIR$/tests/TestCharacterHealth.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCharacterName" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="TestCharacterName" coverage_engine="PHPDBG" file="$PROJECT_DIR$/tests/TestCharacterName.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHPUnit.TestCharacterName" />
+        <item itemvalue="PHPUnit.TestApplySkill" />
+        <item itemvalue="PHPUnit.TestCharacterHealth" />
+        <item itemvalue="PHPUnit.TestCharacter" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,11 +159,23 @@
       <option name="presentableId" value="Default" />
       <updated>1599567373376</updated>
       <workItem from="1599567378340" duration="43811000" />
+      <workItem from="1599723379861" duration="2659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="660" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1599686205709">
@@ -94,23 +187,51 @@
     </state>
     <state x="567" y="120" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1599670161341" />
     <state x="797" y="290" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599644848903" />
-    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599682167606">
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599726461661">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599682167606" />
-    <state x="781" y="247" key="NewPhpClassDialog" timestamp="1599582060197">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599726461661" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1599726935841">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1599726935841">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1599726935840">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599726935840" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1599726935841">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
+    <state x="556" y="174" key="NewPhpClassDialog" timestamp="1599724324164">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="556" y="174" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1599724324164" />
     <state x="781" y="247" key="NewPhpClassDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599582060197" />
-    <state x="565" y="315" key="NewPhpFileDialog" timestamp="1599683180432">
+    <state x="565" y="315" key="NewPhpFileDialog" timestamp="1599724841176">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="565" y="315" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1599683180432" />
+    <state x="565" y="315" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1599724841176" />
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1024.738@0.0.1920.1050" timestamp="1599585872733" />
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1599641920230" />
     <state x="616" y="243" key="run.anything.popup" timestamp="1599587479134">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1599587479134" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/tests/TestCharacterName.php</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
