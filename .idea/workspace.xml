@@ -22,14 +22,6 @@
     <list default="true" id="5577ee08-336f-445c-b332-044759a2a6e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterSkill.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterSkill.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/CharacterTemplate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/CharacterTemplate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/EnemyCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/EnemyCharacter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/MainCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/MainCharacter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Characters/SkillsFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Characters/SkillsFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Game/GameplayConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Game/GameplayConfig.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Game/TheHeroGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Game/TheHeroGame.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599567373376</updated>
       <workItem from="1599567378340" duration="43811000" />
-      <workItem from="1599723379861" duration="6016000" />
+      <workItem from="1599723379861" duration="6644000" />
     </task>
     <servers />
   </component>

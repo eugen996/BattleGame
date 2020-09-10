@@ -11,7 +11,14 @@ For the command line use
 ```bash
 php index.php
 ```
-or simple opening in the browser.
 
 ## Output
 ![Screenshot](https://raw.githubusercontent.com/eugen996/BattleGame/master/images/Screenshot_1.png)
+
+## Uit tests (PHPUnit)
+
+- tests/TestApplySkill.php
+- tests/TestCharacterHealth.php
+- tests/TestCharacterName.php
+
+### This project is developed by Eugen Popa
