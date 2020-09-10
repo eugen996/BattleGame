@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5577ee08-336f-445c-b332-044759a2a6e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.phpunit.result.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.phpunit.result.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TestMainCharacter.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCharacterHealth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -159,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599567373376</updated>
       <workItem from="1599567378340" duration="43811000" />
-      <workItem from="1599723379861" duration="2659000" />
+      <workItem from="1599723379861" duration="3538000" />
     </task>
     <servers />
   </component>
@@ -191,22 +191,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="123" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1599726461661" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1599726935841">
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom" timestamp="1599726980559">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1599726935841">
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
+    <state width="1323" height="317" key="GridCell.Tab.0.center" timestamp="1599726980559">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1599726935840">
+    <state width="1323" height="317" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
+    <state width="1323" height="317" key="GridCell.Tab.0.left" timestamp="1599726980559">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599726935840" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1599726935841">
+    <state width="1323" height="317" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
+    <state width="1323" height="317" key="GridCell.Tab.0.right" timestamp="1599726980559">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599726935841" />
+    <state width="1323" height="317" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599726980559" />
     <state x="556" y="174" key="NewPhpClassDialog" timestamp="1599724324164">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
